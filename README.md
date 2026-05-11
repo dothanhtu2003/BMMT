@@ -20,7 +20,6 @@ The project is intended for coursework and security awareness. It must only be e
 | 52200286 | Nguyen Thanh Phat | Lab setup, source code testing |
 | 52200240 | Do Thanh Tu | Source code analysis, report writing |
 
-**Repository:** Add your GitHub/GitLab link here.
 
 ## 3. Educational Objectives
 
